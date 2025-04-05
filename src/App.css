@@ -1,0 +1,19 @@
+body {
+  background-color: #05314C;
+  font-family: 'Poppins';
+  color: white;
+}
+
+button {
+  cursor: pointer;
+}
+
+section:not(.home) {
+  padding: 0 2rem;
+  max-width: 1800px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 4rem;
+}

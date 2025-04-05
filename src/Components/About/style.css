@@ -1,0 +1,22 @@
+.about {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 2rem;
+    padding: 5rem 2rem 5rem !important;
+}
+
+.about h1 {
+    font-size: 3rem;
+    color: white;
+    font-weight: bolder;
+}
+
+.about div {
+    max-width: 900px;
+    text-align: justify;
+}
+
+.about p {
+    font-size: 1.2rem;
+}

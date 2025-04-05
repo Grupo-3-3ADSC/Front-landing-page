@@ -1,0 +1,9 @@
+.add {
+    padding: 7rem 2rem 7rem !important;
+}
+
+.card-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+}
