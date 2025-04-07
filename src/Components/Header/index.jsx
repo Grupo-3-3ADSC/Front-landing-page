@@ -13,7 +13,6 @@ function Header() {
                     <li><a href="#">Sobre nós</a></li>
                     <li><a href="#">Objetivos</a></li>
                     <li><a href="#">Contato</a></li>
-                    <li><a className="link" href="#">Login</a></li>
                 </ul>
             </header>
         </>

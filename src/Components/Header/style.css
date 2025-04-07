@@ -20,14 +20,6 @@ header ul {
     list-style: none;
 }
 
-header ul .link {
-    border: 3px solid white;
-    padding: .5rem 2rem;
-    border-radius: 50px;
-    font-weight: bolder;
-    font-size: 1.5rem;
-}
-
 header ul a {
     color: white;
     text-decoration: none;
