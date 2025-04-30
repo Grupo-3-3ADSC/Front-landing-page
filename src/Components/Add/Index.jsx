@@ -7,6 +7,8 @@ import dolar from '../../assets/dolar-icon.png'
 function Add() {
     return (
         <section className='add'>
+
+            <h1>OBJETIVOS</h1>
             <div className="card-content">
                 <CardAdd
                     img={security}

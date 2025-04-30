@@ -1,16 +1,28 @@
 footer {
     max-width: 1600px;
     margin: 0 auto;
-    padding: 4rem;
+    padding: 5rem;
     display: grid;
     grid-template-columns: 2fr 1fr;
     align-content: space-around;
     place-items: center;
-    text-align: center;
+
+    background-color: #0c3045;
 }
 
+
 footer div {
-    font-size: 1.4rem;
+    font-size: 1rem;
+}
+
+footer div img {
+    max-width: 150px;
+    border-radius: 20px;
+}
+
+footer div h3 {
+    margin-left: 2rem;
+    font-weight: 500;
 }
 
 footer div {

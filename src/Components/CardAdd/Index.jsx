@@ -5,7 +5,7 @@ function CardAdd(props) {
     return (
         <div className="card">
             <div>
-                <img src={props.img} alt="segurança" />
+                <img src={props.img} alt="card" />
             </div>
             <div>
                 <h2>{ props.title }</h2>

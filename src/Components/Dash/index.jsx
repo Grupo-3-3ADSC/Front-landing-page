@@ -4,7 +4,7 @@ import dash from '../../assets/dash.png'
 function Dash() {
 
     return (
-        <section className='about'>
+        <section className='dash'>
 
             <img src={dash}></img>
 

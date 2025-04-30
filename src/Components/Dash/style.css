@@ -1,4 +1,4 @@
-.about {
+.dash {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -6,24 +6,24 @@
     padding: 5rem 2rem 5rem !important;
 
     position: relative;
+    margin-bottom: 3rem !important;
 }
 
-.about svg {
+.dash svg {
     position: absolute;
     width: 100%;
 }
 
-.about h1 {
+.dash h1 {
     font-size: 3rem;
     color: white;
     font-weight: bolder;
 }
 
-.about div {
+.dash div {
     max-width: 700px;
-    text-align: justify;
 }
 
-.about p {
+.dash p {
     font-size: 1.2rem;
 }
